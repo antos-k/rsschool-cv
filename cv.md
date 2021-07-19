@@ -4,3 +4,5 @@
 * **Education:** high
 ## Contacts
 * **Discord:** antos#8928
+## Languages
+**English:** Intermediate
